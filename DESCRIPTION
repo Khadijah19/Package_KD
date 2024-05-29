@@ -1,0 +1,12 @@
+Package: PackKD
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Khadidiatou", "DIAKHATE", , "khadijaatou180702@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Ce package nous permet d'automatiser quelques actions que l'on fait régulièrement sur les bases EHCVM de la section consommation, ces bases présentant la même stucture
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
